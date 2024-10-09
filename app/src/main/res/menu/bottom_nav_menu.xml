@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navDiff"
+        android:icon="@drawable/ic_diff"
+        android:title="@string/diff" />
+    <item
+        android:id="@+id/navPoint"
+        android:icon="@drawable/ic_point"
+        android:title="@string/point" />
+    <item
+        android:id="@+id/navClock"
+        android:icon="@drawable/ic_clock_nav"
+        android:title="@string/o_th_i_gian" />
+</menu>
